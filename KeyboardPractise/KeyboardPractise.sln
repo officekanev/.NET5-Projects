@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyboardPractise.Server", "KeyboardPractise\Server\KeyboardPractise.Server.csproj", "{34EC13D7-6402-4C52-8BBD-001F3B8ECB00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyboardPractise.Client", "KeyboardPractise\Client\KeyboardPractise.Client.csproj", "{73C7B40F-F64A-4421-84FF-0C77E5F3AF30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyboardPractise.Shared", "KeyboardPractise\Shared\KeyboardPractise.Shared.csproj", "{4C1511D1-95B2-432D-9058-7DD46FA03FAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34EC13D7-6402-4C52-8BBD-001F3B8ECB00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34EC13D7-6402-4C52-8BBD-001F3B8ECB00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34EC13D7-6402-4C52-8BBD-001F3B8ECB00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34EC13D7-6402-4C52-8BBD-001F3B8ECB00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73C7B40F-F64A-4421-84FF-0C77E5F3AF30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C7B40F-F64A-4421-84FF-0C77E5F3AF30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C7B40F-F64A-4421-84FF-0C77E5F3AF30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C7B40F-F64A-4421-84FF-0C77E5F3AF30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C1511D1-95B2-432D-9058-7DD46FA03FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1511D1-95B2-432D-9058-7DD46FA03FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1511D1-95B2-432D-9058-7DD46FA03FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1511D1-95B2-432D-9058-7DD46FA03FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5B09D53-ED70-4369-B41D-71ED0F555C03}
+	EndGlobalSection
+EndGlobal
