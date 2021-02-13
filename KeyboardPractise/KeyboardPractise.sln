@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyboardPractise.Server", "KeyboardPractise\Server\KeyboardPractise.Server.csproj", "{34EC13D7-6402-4C52-8BBD-001F3B8ECB00}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyboardPractise.Server", "KeyboardPractise\Server\KeyboardPractise.Server.csproj", "{46678240-0675-4038-9F92-7654BBC1BCB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyboardPractise.Client", "KeyboardPractise\Client\KeyboardPractise.Client.csproj", "{73C7B40F-F64A-4421-84FF-0C77E5F3AF30}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyboardPractise.Client", "KeyboardPractise\Client\KeyboardPractise.Client.csproj", "{69A70C50-AC71-48F2-93E2-18B3B67DFE1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyboardPractise.Shared", "KeyboardPractise\Shared\KeyboardPractise.Shared.csproj", "{4C1511D1-95B2-432D-9058-7DD46FA03FAA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyboardPractise.Shared", "KeyboardPractise\Shared\KeyboardPractise.Shared.csproj", "{65EECC3E-C8A8-4F3C-85FC-D46A931FAA79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,23 +15,23 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{34EC13D7-6402-4C52-8BBD-001F3B8ECB00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{34EC13D7-6402-4C52-8BBD-001F3B8ECB00}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{34EC13D7-6402-4C52-8BBD-001F3B8ECB00}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{34EC13D7-6402-4C52-8BBD-001F3B8ECB00}.Release|Any CPU.Build.0 = Release|Any CPU
-		{73C7B40F-F64A-4421-84FF-0C77E5F3AF30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{73C7B40F-F64A-4421-84FF-0C77E5F3AF30}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{73C7B40F-F64A-4421-84FF-0C77E5F3AF30}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{73C7B40F-F64A-4421-84FF-0C77E5F3AF30}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4C1511D1-95B2-432D-9058-7DD46FA03FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4C1511D1-95B2-432D-9058-7DD46FA03FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4C1511D1-95B2-432D-9058-7DD46FA03FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4C1511D1-95B2-432D-9058-7DD46FA03FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46678240-0675-4038-9F92-7654BBC1BCB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46678240-0675-4038-9F92-7654BBC1BCB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46678240-0675-4038-9F92-7654BBC1BCB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46678240-0675-4038-9F92-7654BBC1BCB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69A70C50-AC71-48F2-93E2-18B3B67DFE1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A70C50-AC71-48F2-93E2-18B3B67DFE1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A70C50-AC71-48F2-93E2-18B3B67DFE1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A70C50-AC71-48F2-93E2-18B3B67DFE1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65EECC3E-C8A8-4F3C-85FC-D46A931FAA79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65EECC3E-C8A8-4F3C-85FC-D46A931FAA79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65EECC3E-C8A8-4F3C-85FC-D46A931FAA79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65EECC3E-C8A8-4F3C-85FC-D46A931FAA79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D5B09D53-ED70-4369-B41D-71ED0F555C03}
+		SolutionGuid = {CBE4A13D-132B-48DE-A2CF-EE669B76FE88}
 	EndGlobalSection
 EndGlobal

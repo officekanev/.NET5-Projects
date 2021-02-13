@@ -2,10 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <UserSecretsId>KeyboardPractise.Server-6EE4A3AE-6389-4976-BF87-33CEECFD4D41</UserSecretsId>
+    <UserSecretsId>KeyboardPractise.Server-46366A72-0B73-49F7-A9FE-5DAF0E3113DC</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Authentication" Version="5.0.3" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="5.0.2" />
   </ItemGroup>
 

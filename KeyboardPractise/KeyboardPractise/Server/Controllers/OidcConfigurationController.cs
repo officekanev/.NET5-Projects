@@ -11,7 +11,7 @@ namespace KeyboardPractise.Server.Controllers
         public OidcConfigurationController(IClientRequestParametersProvider clientRequestParametersProvider, ILogger<OidcConfigurationController> logger)
         {
             ClientRequestParametersProvider = clientRequestParametersProvider;
-            _logger = logger;
+            _logger = logger; 
         }
 
         public IClientRequestParametersProvider ClientRequestParametersProvider { get; }
